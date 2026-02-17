@@ -22,3 +22,4 @@ The interactive dashboard developed in **Microsoft Power BI** provides deep insi
 * **Methodology:** Time-series analysis and statistical computation
 
 ## Project Documentation
+![alt text](https://github.com/dhaizfullah/USD-to-IDR-Exchange-Rate-Analysis-2014-2024-/blob/main/Kurs%20Transaksi.jpg?raw=true)
